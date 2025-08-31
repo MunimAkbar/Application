@@ -1,0 +1,2 @@
+# Application
+Solving merge conflicts
